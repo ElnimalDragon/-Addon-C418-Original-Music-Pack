@@ -16768,63 +16768,51 @@
          "sounds" : [
             {
                "name" : "sounds/music/game/calm1",
-               "stream" : true,
-               "volume" : 0.20
+               "stream" : true
             },
             {
                "name" : "sounds/music/game/calm2",
-               "stream" : true,
-               "volume" : 0.20
+               "stream" : true
             },
             {
                "name" : "sounds/music/game/calm3",
-               "stream" : true,
-               "volume" : 0.20
+               "stream" : true
             },
             {
                "name" : "sounds/music/game/hal1",
-               "stream" : true,
-               "volume" : 0.10
+               "stream" : true
             },
             {
                "name" : "sounds/music/game/hal2",
-               "stream" : true,
-               "volume" : 0.20
+               "stream" : true
             },
             {
                "name" : "sounds/music/game/hal3",
-               "stream" : true,
-               "volume" : 0.10
+               "stream" : true
             },
             {
                "name" : "sounds/music/game/hal4",
-               "stream" : true,
-               "volume" : 0.20
+               "stream" : true
             },
             {
                "name" : "sounds/music/game/nuance1",
-               "stream" : true,
-               "volume" : 0.30
+               "stream" : true
             },
             {
                "name" : "sounds/music/game/nuance2",
-               "stream" : true,
-               "volume" : 0.30
+               "stream" : true
             },
             {
                "name" : "sounds/music/game/piano1",
-               "stream" : true,
-               "volume" : 0.20
+               "stream" : true
             },
             {
                "name" : "sounds/music/game/piano2",
-               "stream" : true,
-               "volume" : 0.20
+               "stream" : true
             },
             {
                "name" : "sounds/music/game/piano3",
-               "stream" : true,
-               "volume" : 0.20
+               "stream" : true
             }
          ]
       },
@@ -16836,73 +16824,61 @@
             {
                "name" : "sounds/music/game/calm1",
                "stream" : true,
-               "volume" : 0.20,
                "weight" : 3
             },
             {
                "name" : "sounds/music/game/calm2",
                "stream" : true,
-               "volume" : 0.20,
                "weight" : 3
             },
             {
                "name" : "sounds/music/game/calm3",
                "stream" : true,
-               "volume" : 0.20,
                "weight" : 3
             },
             {
                "name" : "sounds/music/game/hal1",
                "stream" : true,
-               "volume" : 0.10,
                "weight" : 3
             },
             {
                "name" : "sounds/music/game/hal2",
                "stream" : true,
-               "volume" : 0.20,
                "weight" : 3
             },
             {
                "name" : "sounds/music/game/hal3",
                "stream" : true,
-               "volume" : 0.10,
                "weight" : 3
             },
             {
                "name" : "sounds/music/game/hal4",
                "stream" : true,
-               "volume" : 0.20,
                "weight" : 3
             },
             {
                "name" : "sounds/music/game/nuance1",
                "stream" : true,
-               "volume" : 0.30,
                "weight" : 3
             },
             {
                "name" : "sounds/music/game/nuance2",
                "stream" : true,
-               "volume" : 0.30,
                "weight" : 3
             },
             {
                "name" : "sounds/music/game/piano1",
                "stream" : true,
-               "volume" : 0.20,
                "weight" : 3
             },
             {
                "name" : "sounds/music/game/piano2",
                "stream" : true,
-               "volume" : 0.20,
                "weight" : 3
             },
             {
                "name" : "sounds/music/game/piano3",
                "stream" : true,
-               "volume" : 0.20,
                "weight" : 3
             }
          ]
@@ -16915,23 +16891,19 @@
          "sounds" : [
             {
                "name" : "sounds/music/menu/menu1",
-               "stream" : true,
-               "volume" : 0.30
+               "stream" : true
             },
             {
                "name" : "sounds/music/menu/menu2",
-               "stream" : true,
-               "volume" : 0.30
+               "stream" : true
             },
             {
                "name" : "sounds/music/menu/menu3",
-               "stream" : true,
-               "volume" : 0.30
+               "stream" : true
             },
             {
                "name" : "sounds/music/menu/menu4",
-               "stream" : true,
-               "volume" : 0.30
+               "stream" : true
             }
          ]
       },
@@ -17678,48 +17650,63 @@
          "sounds" : [
             {
                "load_on_low_memory" : true,
-               "name" : "sounds/music/game/flake",
-               "stream" : true,
-               "volume" : 0.40,
-               "weight" : 1
-            },
-            {
-               "load_on_low_memory" : true,
                "name" : "sounds/music/game/calm1",
-               "stream" : true,
-               "volume" : 0.40,
-               "weight" : 1
+               "stream" : true
             },
             {
                "load_on_low_memory" : true,
                "name" : "sounds/music/game/calm2",
-               "stream" : true,
-               "volume" : 0.40,
-               "weight" : 1
+               "stream" : true
+            },
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/music/game/calm3",
+               "stream" : true
             },
             {
                "load_on_low_memory" : true,
                "name" : "sounds/music/game/hal1",
-               "stream" : true,
-               "weight" : 1
+               "stream" : true
             },
             {
                "load_on_low_memory" : true,
                "name" : "sounds/music/game/hal2",
-               "stream" : true,
-               "weight" : 1
+               "stream" : true
             },
             {
                "load_on_low_memory" : true,
                "name" : "sounds/music/game/hal3",
-               "stream" : true,
-               "weight" : 1
+               "stream" : true
+            },
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/music/game/hal4",
+               "stream" : true
+            },
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/music/game/nuance1",
+               "stream" : true
+            },
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/music/game/nuance2",
+               "stream" : true
             },
             {
                "load_on_low_memory" : true,
                "name" : "sounds/music/game/piano1",
-               "stream" : true,
-               "volume" : 0.80
+               "stream" : true
+            },
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/music/game/piano2",
+               "stream" : true
+            },
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/music/game/piano3",
+               "stream" : true
             }
          ]
       },
