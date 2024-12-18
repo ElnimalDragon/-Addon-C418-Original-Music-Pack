@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Musicas ambientales de C418 como antes de Nether Update.",
+        "description": "Musica Personalizada Template.",
         "name": "C148 Original Music Pack",
-        "uuid": "eee3a8b6-430d-48e6-b989-95d99563b42a",
+        "uuid": "34340f8c-85c4-4142-82ed-ab812d3da921",
         "version": [1, 0, 0],
         "min_engine_version": [ 1, 20, 80 ]
     },
@@ -11,7 +11,7 @@
         {
             "description": "C148 Original Music Pack",
             "type": "resources",
-            "uuid": "ea033f24-a671-49a6-a4e6-8feb23713ae5",
+            "uuid": "374b3745-908e-4862-b7c6-08cfc50b821f",
             "version": [0, 0, 1]
         }
     ]
